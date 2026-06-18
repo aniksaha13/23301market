@@ -346,6 +346,8 @@ http://27.124.71.27/Sun_Bangla/index.m3u8
 https://talive-anikad1.netlify.app/starjalshahd.m3u8
 #EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/6PXiBCB.jpeg",[BD] starjalsha hd-2
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281675.m3u8
+#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/6PXiBCB.jpeg",[BD] starjalsha hd-3
+http://172.19.17.3:8090/hls/StarJalshaHD.m3u8
 #EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/Ya47Y5k.jpeg",[BD] colors bangla hd
 http://premiumtvs.space/live/jen12345/Jen54321/23306.ts
 #EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/Ya47Y5k.jpeg",[BD] colors bangla-1
